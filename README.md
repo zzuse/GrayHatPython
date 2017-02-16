@@ -1,1 +1,1 @@
-#my excercise from book GrayHatPython
+#my exercise from book GrayHatPython
